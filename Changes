@@ -1,6 +1,9 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+		added MetaResourcesFromGit
+
+0.01_04   2012-03-25 03:34:12 Europe/Lisbon
 		added [ChackChangesHasContents]
 
 0.01_03   2012-03-25 03:31:24 Europe/Lisbon
